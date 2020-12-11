@@ -1,0 +1,5 @@
+# Slock Files
+*.o
+*.orig
+slock
+config.h
