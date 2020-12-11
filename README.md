@@ -31,3 +31,4 @@ The configuration of slock is done by creating a custom config.h and (re)compili
 Most patches can be found on the suckless website: [https://tools.suckless.org/slock/patches/](https://tools.suckless.org/slock/patches/)
 
 * [capscolor](https://tools.suckless.org/slock/patches/capscolor/) - Introduces an additional color to indicate the state of Caps Lock.
+* [mediakeys](https://tools.suckless.org/slock/patches/mediakeys/) - Allows use of media keys while screen is locked
