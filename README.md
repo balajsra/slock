@@ -33,3 +33,4 @@ Most patches can be found on the suckless website: [https://tools.suckless.org/s
 * [capscolor](https://tools.suckless.org/slock/patches/capscolor/) - Introduces an additional color to indicate the state of Caps Lock.
 * [mediakeys](https://tools.suckless.org/slock/patches/mediakeys/) - Allows use of media keys while screen is locked
 * [message](https://tools.suckless.org/slock/patches/message/) - This patch lets you add a message to your lock screen. You can place a default message in `config.h`, and you can also pass a message with `-m message`
+* [terminalkeys](https://tools.suckless.org/slock/patches/terminalkeys/) - Add key commands that are commonly used in terminal applications (in particular the login prompt) to slock
